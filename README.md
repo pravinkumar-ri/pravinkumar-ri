@@ -1,7 +1,7 @@
 ## Hi there 👋 It's Pravin Kumar
 
 ##### B.Tech Mechanical Engineering
-<img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:875/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" width="400" height="290" src="https://miro.medium.com/v2/resize:fit:875/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 - 🔭 I’m currently learning Java Full Stack Developer
 - 🌱 I’m currently  ...
