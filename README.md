@@ -23,7 +23,7 @@
 
 ### 💻 Workspace Specs
 
-<img src="https://img.shields.io/badge/NVIDIA-GEFORCE-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-ASUS_ROG_Strix_G16-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/NVIDIA-GEFORCE-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 ![Pravin Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravinkumar-ri&bg_color=000000&color=ee00ff&line=04ff00&point=ffffff&area=true&hide_border=true)
 
