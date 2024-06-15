@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Windows-ASUS_Strix_G16-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  <img src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 
+<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+
 <img src="https://img.shields.io/badge/GALLERIE-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 
