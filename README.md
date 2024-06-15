@@ -32,7 +32,7 @@
 > [<img src="https://img.shields.io/badge/Travelix-ED1C24?style=for-the-badge"/>](https://travelix-website-app.netlify.app/)
 >
 
-[<img src="https://img.shields.io/badge/My_Social_Media-100000?style=for-the-badge"/>](https://pravinkumar-ri.github.io/social/)
+[<img src="https://img.shields.io/badge/My_Social_Media-100000?style=for-the-badge"/>](https://pravinkumar-ri.github.io/social-media/)
 
 ![Pravin Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravinkumar-ri&bg_color=000000&color=ee00ff&line=04ff00&point=ffffff&area=true&hide_border=true)
 
