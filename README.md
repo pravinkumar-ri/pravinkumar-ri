@@ -19,7 +19,7 @@
 
 ### IDE and Tools I used
 
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/officel/40/java-eclipse.png" alt="java-eclipse"/>  <img width="110" height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  alt="netlify-a-cloud"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/officel/40/java-eclipse.png" alt="java-eclipse"/>  <img width="110" height="45" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  alt="netlify-a-cloud"/>
 
 ![Pravin Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravinkumar-ri&bg_color=000000&color=ee00ff&line=04ff00&point=ffffff&area=true&hide_border=true)
 
