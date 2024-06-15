@@ -27,9 +27,10 @@
 
 ### My Projects
 
-1. [<img height="40" src="https://img.shields.io/badge/GALLERIE-76B900?style=for-the-badge"/>](https://gallerie-website.netlify.app/)
-2. [<img height="40" src="https://img.shields.io/badge/Travelix-ED1C24?style=for-the-badge"/>](https://travelix-website-app.netlify.app/)
-
+>
+> [<img src="https://img.shields.io/badge/GALLERIE-76B900?style=for-the-badge"/>](https://gallerie-website.netlify.app/)
+> [<img src="https://img.shields.io/badge/Travelix-ED1C24?style=for-the-badge"/>](https://travelix-website-app.netlify.app/)
+>
 
 ![Pravin Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravinkumar-ri&bg_color=000000&color=ee00ff&line=04ff00&point=ffffff&area=true&hide_border=true)
 
