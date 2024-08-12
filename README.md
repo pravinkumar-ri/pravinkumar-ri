@@ -8,7 +8,7 @@
 ### Find me around the web 🌎:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/pravin-kumar-r-i-2a8910251/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/ri__pravin05/?hl=en)
 
-<hr
+<hr>
 
 ## Technical Skill I know 
 
