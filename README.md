@@ -8,7 +8,9 @@
 ### Find me around the web 🌎:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/pravin-kumar-r-i-2a8910251/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/ri__pravin05/?hl=en)
 
-### I Code in
+<hr
+
+### Technical Skill's I Know 
 
 <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="50" height="50" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/>
 
