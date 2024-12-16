@@ -3,7 +3,7 @@
 #### B.Tech Mechanical Engineering
 <img align="right" width="400" height="290" src="https://miro.medium.com/v2/resize:fit:875/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-- 🔭 I’m currently learning Java Full Stack Developer
+- 🔭 I’m compeleted Full Stack Developer
 - 🤔 I’m looking for help with Placements
 ### Find me around the web 🌎:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/pravin-kumar-r-i-2a8910251/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/ri__pravin05/?hl=en)
