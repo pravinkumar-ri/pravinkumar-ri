@@ -1,7 +1,8 @@
 # Hi, It's Pravin Kumar 👋🏻🧑🏻‍💻
 
-#### B.Tech Mechanical Engineering
 <img align="right" width="400" height="290" src="https://miro.medium.com/v2/resize:fit:875/1*yw0TnheAGN-LPneDaTlaxw.gif">
+#### B.Tech Mechanical Engineering
+
 
 - 🔭 I’m compeleted Full Stack Developer
 - 🤔 I’m looking for help with Placements
