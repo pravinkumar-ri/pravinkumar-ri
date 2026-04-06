@@ -26,7 +26,8 @@
 
 ### My Projects
 
-> 
+>
+> [<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge"/>](https://portfolio-pravinkumar.netlify.app/) <br/>
 > [<img src="https://img.shields.io/badge/GALLERIE-76B900?style=for-the-badge"/>](https://gallerie-website.netlify.app/) <br/>
 > [<img src="https://img.shields.io/badge/Travelix-ED1C24?style=for-the-badge"/>](https://travelix-website-app.netlify.app/)
 >
