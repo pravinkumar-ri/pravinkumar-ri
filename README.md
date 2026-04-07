@@ -27,9 +27,10 @@
 ### My Projects
 
 >
-> [<img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge"/>](https://portfolio-pravinkumar.netlify.app/) <br/>
-> [<img src="https://img.shields.io/badge/GALLERIE-76B900?style=for-the-badge"/>](https://gallerie-website.netlify.app/) <br/>
-> [<img src="https://img.shields.io/badge/Travelix-ED1C24?style=for-the-badge"/>](https://travelix-website-app.netlify.app/)
+> [<img src="https://img.shields.io/badge/𝑃𝑂𝑅𝑇𝐹𝑂𝐿𝐼𝑂-8A2BE2?style=for-the-badge"/>](https://portfolio-pravinkumar.netlify.app/) <br/>
+> [<img src="https://img.shields.io/badge/𝐵𝑈𝑆𝐼𝑁𝐸𝑆𝑆 𝐷𝐴𝑆𝐻𝐵𝑂𝐴𝑅𝐷-A81D33?style=for-the-badge"/>](https://business-dashboard-ri-max.netlify.app/) <br/>
+> [<img src="https://img.shields.io/badge/𝐺𝐴𝐿𝐿𝐸𝑅𝐼𝐸-76B900?style=for-the-badge"/>](https://gallerie-website.netlify.app/) <br/>
+> [<img src="https://img.shields.io/badge/𝑇𝑅𝐴𝑉𝐸𝐿𝐼𝑋-ED1C24?style=for-the-badge"/>](https://travelix-website-app.netlify.app/)
 >
 
 ### Animation
